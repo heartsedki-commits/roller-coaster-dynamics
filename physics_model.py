@@ -138,3 +138,5 @@ def score_ride(df):
     overall = 0.55*comfort + 0.45*thrill
     return {"thrill_score": float(thrill), "comfort_score": float(comfort),
             "overall_score": float(overall)}
+def simulate_roller_coaster(*args, **kwargs):
+    return simulate_coaster(*args, **kwargs)
