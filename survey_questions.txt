@@ -1,0 +1,51 @@
+ROLLER COASTER DYNAMICS LAB — RIDER EXPERIENCE SURVEY
+
+Purpose:
+This anonymous survey studies how people perceive speed, G-force, smoothness and safety in roller coasters. It supports a student research project on physics-based roller-coaster simulation.
+
+Q1. How often do you ride roller coasters?
+- Never
+- Rarely
+- Sometimes
+- Often
+- Very often
+
+Q2. What matters most to you in a roller coaster? (Select all that apply)
+- Speed
+- Height
+- Drops
+- Loops/inversions
+- G-force
+- Smoothness
+- Safety
+- Overall excitement
+
+Q3. Rate the importance of smoothness from 1–5.
+Q4. Rate how much you enjoy strong acceleration from 1–5.
+Q5. Rate your comfort with strong G-forces from 1–5.
+Q6. Would excessive shaking make you less likely to ride? Yes / Maybe / No
+Q7. Which experience would you prefer?
+- Extremely intense but less smooth
+- Extremely smooth but less intense
+- Balanced intensity and smoothness
+
+Q8. Would you trust a ride-design process more if speed, acceleration and G-force were simulated before construction?
+- Yes
+- Maybe
+- No
+
+Q9. How important is safety information before riding? 1–5.
+Q10. What makes a roller coaster feel unsafe? (Short answer)
+Q11. What makes a roller coaster exciting? (Short answer)
+Q12. Would you use an app that lets you design a coaster and see predicted speed, G-force and comfort?
+- Definitely
+- Probably
+- Maybe
+- Probably not
+- Definitely not
+
+Optional demographics:
+Age group: under 16 / 16–18 / 19–25 / 26–40 / 41+
+Roller-coaster experience: low / medium / high
+
+Do not collect names, phone numbers, emails, or other identifying information unless your school/research protocol explicitly requires it.
